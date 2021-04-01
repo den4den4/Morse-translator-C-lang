@@ -1,0 +1,4 @@
+﻿  test.c
+d:\study\2 year\יבגניה\semester_project\semester_project\test.c(26): warning C4013: 'gets' undefined; assuming extern returning int
+d:\study\2 year\יבגניה\semester_project\semester_project\test.c(115): warning C4047: '=': 'char' differs in levels of indirection from 'char [2]'
+  Semester_project.vcxproj -> D:\Study\2 year\יבגניה\Semester_project\Debug\Semester_project.exe
